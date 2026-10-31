@@ -2,6 +2,366 @@
   {
     "is_official_exam": true,
     "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • Dan works in a hospital",
+    "question": "Dan works in a hospital. He's ___.",
+    "options": [
+      {
+        "label": "A",
+        "text": "a doctor"
+      },
+      {
+        "label": "B",
+        "text": "a chef"
+      },
+      {
+        "label": "C",
+        "text": "an architect"
+      },
+      {
+        "label": "D",
+        "text": "a police officer"
+      },
+      {
+        "label": "E",
+        "text": "a pilot"
+      }
+    ],
+    "answer": "A",
+    "teacher_feedback": "✓ Correct! Well done.\nA person who works in a hospital is 'a doctor'.",
+    "translation": "Dan bir hastanede çalışıyor. O bir doktordur.",
+    "explanation": "Meslekler & Çalışma Yerleri Eşleştirmesi:\n• 'hospital' (hastane) $\rightarrow$ **a doctor** (doktor) veya a nurse (hemşire).\n• 'chef' restoranda, 'architect' ofiste, 'police officer' polis merkezinde/sokakta, 'pilot' uçakta çalışır.",
+    "distractors": "• B: 'chef' aşçıdır, hastanede değil restoranda çalışır.\n• C: 'architect' mimardır.\n• D: 'police officer' polis memurudur.\n• E: 'pilot' uçak kullanır.",
+    "tip": "Hastanede çalışan $\rightarrow$ DOCTOR | Restoranda çalışan $\rightarrow$ CHEF | Okulda okuyan $\rightarrow$ STUDENT.",
+    "id": 1
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • She studies at University",
+    "question": "Mia is ___. She studies at New York University.",
+    "options": [
+      {
+        "label": "A",
+        "text": "a teacher"
+      },
+      {
+        "label": "B",
+        "text": "a pilot"
+      },
+      {
+        "label": "C",
+        "text": "a student"
+      },
+      {
+        "label": "D",
+        "text": "an actor"
+      },
+      {
+        "label": "E",
+        "text": "an engineer"
+      }
+    ],
+    "answer": "C",
+    "teacher_feedback": "✓ Correct! Well done.\nSomeone who studies at a university is 'a student'.",
+    "translation": "Mia bir öğrencidir. New York Üniversitesinde okuyor/öğrenim görüyor.",
+    "explanation": "Cümledeki İpucu:\n• 'She studies at New York University' (Üniversitede okuyor / ders çalışıyor) ifadesi Mia'nın bir **öğrenci (student)** olduğunu gösterir.",
+    "distractors": "• A: 'teacher' öğretmenlik yapar (teaches).\n• B: 'pilot' uçak uçurur.\n• D: 'actor' tiyatro/film oyuncusudur.\n• E: 'engineer' mühendistir.",
+    "tip": "'studies at school/university' $\rightarrow$ STUDENT | 'teaches at school' $\rightarrow$ TEACHER.",
+    "id": 2
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • What's your favorite food?",
+    "question": "What's your ___ food?",
+    "options": [
+      {
+        "label": "A",
+        "text": "like"
+      },
+      {
+        "label": "B",
+        "text": "love"
+      },
+      {
+        "label": "C",
+        "text": "favorite"
+      },
+      {
+        "label": "D",
+        "text": "hate"
+      },
+      {
+        "label": "E",
+        "text": "drink"
+      }
+    ],
+    "answer": "C",
+    "teacher_feedback": "✓ Correct! Well done.\n'Favorite' is the adjective used in the standard question: 'What's your favorite food?'.",
+    "translation": "En sevdiğin yemek nedir?",
+    "explanation": "Kalıp İfade:\nİngilizcede birinin 'en sevdiği' şeyi sormak için **'favorite'** sıfatı kullanılır: **What's your favorite food / color / movie?**\n'like' ve 'love' fiildir, 'your like food' diye bir tamlama yapılamaz.",
+    "distractors": "• A: 'like' fiildir; 'What is your like' denemez.\n• B: 'love' fiildir.\n• D: 'hate' nefret etmektir.\n• E: 'drink' içecektir; 'drink food' denemez.",
+    "tip": "İsmin önünde 'en sevilen' demek için daima FAVORITE kullanılır (favorite food / favorite movie).",
+    "id": 3
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • Are you a police officer?",
+    "question": "Are you a ___ officer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "movie"
+      },
+      {
+        "label": "B",
+        "text": "taxi"
+      },
+      {
+        "label": "C",
+        "text": "police"
+      },
+      {
+        "label": "D",
+        "text": "soccer"
+      },
+      {
+        "label": "E",
+        "text": "bank"
+      }
+    ],
+    "answer": "C",
+    "teacher_feedback": "✓ Correct! Well done.\nThe compound noun for the profession is 'police officer'.",
+    "translation": "Sen bir polis memuru musun?",
+    "explanation": "Bileşik İsim (Meslek Adı):\nİngilizcede polis memuru tamlaması **'police officer'** dır. 'movie officer' veya 'taxi officer' gibi kavramlar yoktur.",
+    "distractors": "• A: 'movie' filmdir.\n• B: 'taxi' taksidir (taxi driver denir).\n• D: 'soccer' futboldur (soccer player denir).\n• E: 'bank' bankadır (bank clerk denir).",
+    "tip": "OFFICER kelimesiyle birleşen meslek: POLICE OFFICER (polis memuru).",
+    "id": 4
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • Jin Park is from Seoul",
+    "question": "Jin Park is ___ Seoul, South Korea, but he lives in Los Angeles.",
+    "options": [
+      {
+        "label": "A",
+        "text": "at"
+      },
+      {
+        "label": "B",
+        "text": "to"
+      },
+      {
+        "label": "C",
+        "text": "from"
+      },
+      {
+        "label": "D",
+        "text": "with"
+      },
+      {
+        "label": "E",
+        "text": "on"
+      }
+    ],
+    "answer": "C",
+    "teacher_feedback": "✓ Correct! Well done.\nWe use 'to be from' to state someone's origin/hometown: 'is from Seoul'.",
+    "translation": "Jin Park Güney Kore'nin Seul şehrindendir (Seullüdür), fakat Los Angeles'ta yaşamaktadır.",
+    "explanation": "Memleket / Köken Belirtme Kuralı:\nBir kişinin nereli olduğunu söylerken **'be from'** kalıbı kullanılır: **He is from Seoul** (O Seullüdür).",
+    "distractors": "• A: 'at' belirli nokta konumlar içindir.\n• B: 'to' yönelme bildirir (go to).\n• D: 'with' ile demektir.\n• E: 'on' üstünde demektir.",
+    "tip": "Nerelisin? sorusu 'Where are you FROM?' -> Cevabı 'I am FROM Turkey / Seoul'.",
+    "id": 5
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • lives in Los Angeles",
+    "question": "Jin Park is from Seoul, South Korea, but he lives ___ Los Angeles.",
+    "options": [
+      {
+        "label": "A",
+        "text": "at"
+      },
+      {
+        "label": "B",
+        "text": "with"
+      },
+      {
+        "label": "C",
+        "text": "from"
+      },
+      {
+        "label": "D",
+        "text": "in"
+      },
+      {
+        "label": "E",
+        "text": "on"
+      }
+    ],
+    "answer": "D",
+    "teacher_feedback": "✓ Correct! Well done.\nWe use the preposition 'in' with cities and countries: 'lives in Los Angeles'.",
+    "translation": "Jin Park Güney Kore'nin Seul şehrindendir, fakat Los Angeles'ta yaşamaktadır.",
+    "explanation": "Şehir / Ülke Edatı Kuralı:\nŞehirlerde ve ülkelerde yaşamak ifadesi için **'live in'** kullanılır: **lives in Los Angeles** / lives in Istanbul.",
+    "distractors": "• A: Şehirler için 'at' değil 'in' kullanılır.\n• B: 'with' ile demektir (şehirle yaşanmaz).\n• C: 'from' oradan olduğunu belirtir, yaşanılan yer için 'in' gerekir.\n• E: 'on' caddeler/sokaklar içindir.",
+    "tip": "Şehir ve ülke isimlerinin önüne DAİMA 'IN' gelir (in Los Angeles, in Turkey).",
+    "id": 6
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • works in a Korean restaurant",
+    "question": "He's a chef. He works in a Korean ___ with his friend Alex.",
+    "options": [
+      {
+        "label": "A",
+        "text": "hospital"
+      },
+      {
+        "label": "B",
+        "text": "restaurant"
+      },
+      {
+        "label": "C",
+        "text": "office"
+      },
+      {
+        "label": "D",
+        "text": "airport"
+      },
+      {
+        "label": "E",
+        "text": "bank"
+      }
+    ],
+    "answer": "B",
+    "teacher_feedback": "✓ Correct! Well done.\nA chef works in a restaurant: 'works in a Korean restaurant'.",
+    "translation": "O bir aşçıdır. Arkadaşı Alex ile birlikte bir Kore restoranında çalışmaktadır.",
+    "explanation": "Meslek & İş Yeri Uyumu:\nCümlede Jin'in **'chef'** (aşçı) olduğu belirtilmiştir. Bir aşçı **'restaurant'** (restoran) içinde yemek pişirir.",
+    "distractors": "• A: 'hospital' doktor/hemşire içindir.\n• C: 'office' ofis çalışanları/müdürler içindir.\n• D: 'airport' pilotlar/hostesler içindir.\n• E: 'bank' bankacılar içindir.",
+    "tip": "CHEF (aşçı) $\rightarrow$ RESTAURANT (restoran).",
+    "id": 7
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • cooks Korean food",
+    "question": "Jin cooks Korean ___ at work, but at home, he cooks many kinds of food.",
+    "options": [
+      {
+        "label": "A",
+        "text": "food"
+      },
+      {
+        "label": "B",
+        "text": "car"
+      },
+      {
+        "label": "C",
+        "text": "game"
+      },
+      {
+        "label": "D",
+        "text": "clothes"
+      },
+      {
+        "label": "E",
+        "text": "song"
+      }
+    ],
+    "answer": "A",
+    "teacher_feedback": "✓ Correct! Well done.\nThe verb 'cook' takes food objects: 'cooks Korean food'.",
+    "translation": "Jin iş yerinde Kore yemekleri pişirir, fakat evde birçok çeşit yemek pişirir.",
+    "explanation": "Fiil-Nesne Uyumu:\n'cook' (pişirmek) fiili sadece yiyeceklerle kullanılır: **cooks Korean food** (Kore yemekleri pişirir).",
+    "distractors": "• B: 'car' arabadır (pişirilmez!).\n• C: 'game' oyundur.\n• D: 'clothes' kıyafettir.\n• E: 'song' şarkıdır.",
+    "tip": "COOK (yemek pişirmek) $\rightarrow$ FOOD (yemek/yiyecek).",
+    "id": 8
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • Subject pronoun: he",
+    "question": "Jin cooks Korean food at work, but at home, ___ cooks many kinds of food.",
+    "options": [
+      {
+        "label": "A",
+        "text": "he"
+      },
+      {
+        "label": "B",
+        "text": "she"
+      },
+      {
+        "label": "C",
+        "text": "they"
+      },
+      {
+        "label": "D",
+        "text": "we"
+      },
+      {
+        "label": "E",
+        "text": "you"
+      }
+    ],
+    "answer": "A",
+    "teacher_feedback": "✓ Correct! Well done.\nJin Park is a male subject (he), so the subject pronoun is 'he'.",
+    "translation": "Jin iş yerinde Kore yemekleri pişirir, fakat evde o (kendisi) birçok çeşit yemek pişirir.",
+    "explanation": "Özne Zamiri (Subject Pronoun):\nParagraf Jin Park'tan ('He is a chef', 'He works...') erkek özne olarak bahsetmektedir. Bu yüzden ikinci cümlede de özne **'he'** olmalıdır.",
+    "distractors": "• B: 'she' kadınlar içindir; Jin Park erkektir.\n• C: 'they' çoğuldur, 'cooks' -s takısı almıştır (tekildir).\n• D: 'we' biz demektir.\n• E: 'you' sen/siz demektir.",
+    "tip": "Jin Park (He) $\rightarrow$ he cooks.",
+    "id": 9
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
+    "category": "📘 OXFORD KİTAP SORULARI (PAGE 39)",
+    "tag": "📘 Oxford Sayfa 39 • He eats it three times a week",
+    "question": "He loves salmon. He ___ it three times a week.",
+    "options": [
+      {
+        "label": "A",
+        "text": "eats"
+      },
+      {
+        "label": "B",
+        "text": "eat"
+      },
+      {
+        "label": "C",
+        "text": "is eating"
+      },
+      {
+        "label": "D",
+        "text": "eating"
+      },
+      {
+        "label": "E",
+        "text": "don't eat"
+      }
+    ],
+    "answer": "A",
+    "teacher_feedback": "✓ Correct! Well done.\n'three times a week' indicates regular frequency with third person singular 'He': Present Simple takes -s (eats).",
+    "translation": "O somon balığını çok sever. Onu haftada üç kez yer.",
+    "explanation": "Geniş Zaman & Sıklık Kuralı:\n1) 'three times a week' (haftada 3 kez) bir sıklık ve rutin anlatır $\rightarrow$ Geniş Zaman (Present Simple).\n2) 'He' öznesi 3. tekil şahıs olduğu için fiile **-s** takısı gelir: **He eats it**.",
+    "distractors": "• B: 'eat' -s takısı almamıştır (He eat denmez).\n• C: 'is eating' şu anda yemektedir anlamına gelir, 'haftada 3 kez' rutiniyle uyumsuzdur.\n• D: Yardımcı fiilsiz 'eating' yüklem olamaz.\n• E: 'He' için 'don't eat' denmez (doesn't eat denir).",
+    "tip": "He / She / It + Rutin (three times a week) $\rightarrow$ Fiile -s gelir: EATS!",
+    "id": 10
+  },
+  {
+    "is_official_exam": true,
+    "is_exam_certain": true,
     "category": "🏆 HOCANIN SLAYT CHALLENGE SORULARI",
     "tag": "⭐ SLAYT • Q12 • Articles: an umbrella / a new one",
     "question": "I have ___ umbrella, but it isn't ___ new one.",
@@ -33,7 +393,7 @@
     "explanation": "Articles (a / an) Altın Kuralı:\n1) 'umbrella' kelimesi sesli sesle (/ʌ/ - ambrela) başladığı için başına **an** gelir: **an umbrella**.\n2) İkinci boşlukta 'new one' sıfat tamlaması sessiz sesle (/n/ - niv) başladığı için başına **a** gelir: **a new one**.\nDoğru eşleştirme: **an / a**.",
     "distractors": "• A: 'umbrella' için 'a' kullanılamaz; 'new' için 'an' kullanılamaz (tam tersidir).\n• B: 'the new one' belirli bir şemsiyeden bahsetmez, sıradan yeni bir tanedir.\n• D: 'the' gereksizdir, 'umbrella' bilinmeyen nesnedir.\n• E: 'umbrella' önüne 'a' gelemez.",
     "tip": "Kelimenin baş harfinin okunuşuna bak: /a, e, ı, i, o, ö, u, ü/ sesiyle başlıyorsa -> AN (an umbrella, an apple). Sessiz sesle başlıyorsa -> A (a new one, a car).",
-    "id": 1
+    "id": 11
   },
   {
     "is_official_exam": true,
@@ -69,7 +429,7 @@
     "explanation": "Soru Kalıbı Analizi:\nCevapta **'Every weekend'** (Her hafta sonu) bir **sıklık / rutin** belirtmektedir. Bir eylemin hangi sıklıkla yapıldığını soran tek İngilizce soru kalıbı **'How often...?'** (Ne sıklıkla?) dır.",
     "distractors": "• A: 'How long' = Ne kadar süre / Ne kadar uzunlukta?\n• C: 'How much' = Ne kadar? (fiyat / sayılamayan miktar)\n• D: 'How old' = Kaç yaşında?\n• E: 'How many' = Kaç tane? (sayılabilen çoğul nesneler)",
     "tip": "Cevapta 'always, usually, sometimes, every day, twice a week, every weekend' varsa soru DAİMA 'HOW OFTEN' ile sorulmuştur!",
-    "id": 2
+    "id": 12
   },
   {
     "is_official_exam": true,
@@ -105,7 +465,7 @@
     "explanation": "Mantık ve Zaman Analizi:\n1) 'Yesterday' geçmiş zamandır. 'it' tekil öznesi için To Be geçmiş hali **was** dır: **it was cold and windy**.\n2) 'so' (bu yüzden) bir sebep-sonuç bağlacıdır. Hava soğuk ve rüzgarlı olduğu için mantıken plajda **değildik**: **we weren't at the beach**.\n3) 'we' öznesi çoğuldur, 'wasn't' değil **weren't** alır.\nDoğru sıralama: **was / weren't**.",
     "distractors": "• A: 'wasn't / were' mantıksızdır (Hava soğuk değildi bu yüzden plajdaydık olurdu ama rüzgarlıydı diyor).\n• B: 'it' tekildir, 'weren't' alamaz.\n• C: 'we' çoğuldur, tekil 'was' alamaz.\n• D: 'we was' dilbilgisi hatasıdır (we were olmalıdır) ve hava soğukken plajda olmak mantıksızdır.",
     "tip": "1) it $\rightarrow$ WAS | 2) we $\rightarrow$ WERE / WEREN'T | 3) 'so' bağlacının mantık akışına dikkat et!",
-    "id": 3
+    "id": 13
   },
   {
     "is_official_exam": true,
@@ -141,7 +501,7 @@
     "explanation": "Zaman Karşılaştırması:\n1) 'on Saturdays' çoğuldur, her cumartesi yapılan rutini bildirir. 'My brother' (he) için geniş zaman: **plays**.\n2) 'this Saturday' (bu cumartesi) geçici özel bir durumu anlatır: **is studying**.\nDoğru sıralama: **plays / is studying**.",
     "distractors": "• B: Zamanlar terstir.\n• C: 'My brother' tekildir, 'play' olamaz (plays olmalı).\n• D: 'this Saturday' geniş zaman alamaz.\n• E: 'is playing' rutin için kullanılamaz.",
     "tip": "on Saturdays (genel rutin) $\rightarrow$ PLAYS | this Saturday (bu cumartesiye özel) $\rightarrow$ IS STUDYING.",
-    "id": 4
+    "id": 14
   },
   {
     "is_official_exam": true,
@@ -177,7 +537,7 @@
     "explanation": "Dilbilgisi Kuralı:\n• Geniş zamanda (Present Simple) 3. tekil şahıslar (He / She / It) olumsuz cümle yaparken **doesn't** alır: **She doesn't have a car**.\n• 'don't' sadece I / You / We / They özneleriyle kullanılır. Bu yüzden **'She don't have a car'** dilbilgisi açısından KESİNLİKLE HATALIDIR (NOT correct).",
     "distractors": "• B: 'He doesn't like tea.' -> %100 Doğrudur (He + doesn't + yalın fiil).\n• C: 'They aren't studying now.' -> %100 Doğrudur (Şimdiki zaman olumsuz).\n• D: 'I wasn't at school.' -> %100 Doğrudur (I + was not).\n• E: 'We weren't happy.' -> %100 Doğrudur (We + were not).",
     "tip": "HOCANIN EN ÇOK SEVDİĞİ SINAV TUZAĞI: He/She/It asla 'don't' alamaz! Daima DOESN'T alır!",
-    "id": 5
+    "id": 15
   },
   {
     "is_official_exam": true,
@@ -213,7 +573,7 @@
     "explanation": "Past of To Be (Was / Were) Kuralı:\n1) 'your parents' (anne ve baban) çoğuldur ('they' yerine geçer). Bu yüzden geçmiş zaman sorusunda **were** alır: **Where were your parents...?**\n2) İkinci cümlede özne açıkça 'They' (onlar) olduğu için yine **were** gelir: **They were at home.**\nDoğru eşleştirme: **were / were**.",
     "distractors": "• A: 'your parents' tekil sanılıp 'was' konursa elenirsiniz (parents çoğuldur!).\n• B: 'They was' diye bir kural İngilizcede yoktur.\n• D: 'last night' geçmiş zamandır, 'are' şimdiki zamandır kullanılamaz.\n• E: Çoğul öznelerle 'was' kullanılamaz.",
     "tip": "'your' kelimesine aldanma, yanındaki isme bak! 'parentS', 'friendS' çoğuldur -> WERE alır!",
-    "id": 6
+    "id": 16
   },
   {
     "is_official_exam": true,
@@ -249,7 +609,7 @@
     "explanation": "Zaman Edatları Altın Kuralı:\n1) Aylar tek başına söylenirken başına **IN** gelir: 'in March' (Martta).\n2) Ayın günü / belirli bir tarih söylenirken başına **ON** gelir: 'on the 14th' (14'ünde).\nBu yüzden doğru eşleştirme: **in / on**.",
     "distractors": "• B: Şıklar terstir ('on March, in the 14th' kural dışıdır).\n• C: 'at' saatler içindir (at 10:15); ay için kullanılamaz.\n• D: Tarihler için 'at' değil 'on' kullanılır.\n• E: Aylar için 'on' değil 'in' kullanılır.",
     "tip": "HOCANIN EN ÇOK SEVDİĞİ EDAT KURALI: Sadece ay varsa -> IN (in March). Ayın günü / tarih varsa -> ON (on the 14th). Saat varsa -> AT (at 10:15).",
-    "id": 7
+    "id": 17
   },
   {
     "is_official_exam": true,
@@ -285,7 +645,7 @@
     "explanation": "1) 'milk' (süt) sayılamaz tekil bir isimdir; olumsuzda 'any' ile kullanılırken tekil 'To Be' gerektirir: **There isn't any milk**.\n2) 'eggs' (yumurtalar) sayılabilen çoğul bir isimdir; olumlu 'some' ile çoğul 'To Be' gerektirir: **there are some eggs**.\nDoğru sıralama: **isn't / are**.",
     "distractors": "• A: 'milk' sayılamaz, çoğul 'aren't' alamaz.\n• B: 'eggs' çoğuldur, tekil 'is' alamaz.\n• C: 'milk' için 'aren't' denemez.\n• E: 'be' çekimlenmemiştir.",
     "tip": "Süt, su, çay (sayılamaz) $\rightarrow$ IS / ISN'T | Yumurtalar, elmalar (çoğul -s) $\rightarrow$ ARE / AREN'T.",
-    "id": 8
+    "id": 18
   },
   {
     "is_official_exam": true,
@@ -321,7 +681,7 @@
     "explanation": "1) 'your sister' tekil 3. şahıstır (she).\n2) Cümlede 'like' (sevmek) eylem fiili vardır. Geniş zamanda tekil öznelerle soru **Does** ile sorulur.\n3) Olumsuz kısa cevap **No, she doesn't** şeklinde verilir.\nDoğru sıralama: **Does / doesn't**.",
     "distractors": "• A: 'your sister' (she) için 'Do' kullanılamaz.\n• C: 'like' eylem fiilidir, 'Is she like' denemez.\n• D: Does ile sorulan soruya 'isn't' ile cevap verilmez.\n• E: Genel beğeniler geniş zamanla sorulur.",
     "tip": "Tekil şahıs (sister/brother) + LIKE $\rightarrow$ DOES ... like? / No, she DOESN'T.",
-    "id": 9
+    "id": 19
   },
   {
     "is_official_exam": true,
@@ -357,7 +717,7 @@
     "explanation": "'now' (şimdi) ve 'don't call me' uyarısı konuşma anını anlatır. 'I' öznesi için Present Continuous biçimi **am making** dir.",
     "distractors": "• A ve B: Geniş zamandır; konuşma anını anlatamaz.\n• D: 'am' yardımcı fiili eksiktir.\n• E: 'am make' dilbilgisi hatasıdır.",
     "tip": "now / right now $\rightarrow$ AM / IS / ARE + V-ING (I am making).",
-    "id": 10
+    "id": 20
   },
   {
     "is_official_exam": true,
@@ -393,7 +753,7 @@
     "explanation": "Sıklık zarfları 'to be' (am/is/are) fiilinden **SONRA** gelir: She + **is** + **never** + late for work.",
     "distractors": "• B: 'never' be fiilinden önceye konmuştur (yanlış).\n• C: Sıfattan sonraya konmuştur.\n• D: Cümle başına konmuştur.\n• E: 'late' sıfattır, 'does' ile birleşmez.",
     "tip": "To Be fiilinden SONRA: is NEVER / are ALWAYS / am USUALLY.",
-    "id": 11
+    "id": 21
   },
   {
     "is_official_exam": true,
@@ -429,7 +789,7 @@
     "explanation": "1) 'Look!' konuşma anını anlatır $\rightarrow$ **are playing**.\n2) 'usually' rutin alışkanlığı anlatır ve 'they' çoğul öznesinde fiil yalın kalır $\rightarrow$ **play**.\nSıralama: **are playing / play**.",
     "distractors": "• B: Zamanlar terstir.\n• C: 'they' çoğuldur, 'plays' alamaz.\n• D: 'children' çoğuldur, 'plays' alamaz.\n• E: 'children' çoğuldur, 'is playing' alamaz.",
     "tip": "Look! $\rightarrow$ are playing | usually + they $\rightarrow$ play.",
-    "id": 12
+    "id": 22
   },
   {
     "is_official_exam": true,
@@ -465,7 +825,7 @@
     "explanation": "'I' öznesi geçmiş zamanda ('yesterday afternoon') 'To Be' fiilinde daima **was** alır: 'I was at the library yesterday afternoon.'",
     "distractors": "• A (were): Çoğul özneler (you/we/they) içindir; 'I were' denemez.\n• C ve D (am / are): Şimdiki zamandır; 'yesterday' ile kullanılamaz.\n• E (be): Çekimlenmemiştir.",
     "tip": "I + yesterday $\rightarrow$ WAS.",
-    "id": 13
+    "id": 23
   },
   {
     "is_official_exam": true,
@@ -501,7 +861,7 @@
     "explanation": "Öznemiz 'your friends' (arkadaşların) çoğuldur (-s takısına dikkat, zamiri 'they'). 'last Saturday' geçmiş zaman olduğuna göre çoğul geçmiş zaman yardımcı fiili **were** kullanılır: 'Where were your friends last Saturday?'",
     "distractors": "• A (was): 'was' tekil özneler içindir; 'friends' çoğul olduğu için was YANLIŞTIR.\n• B ve C (is / are): 'last Saturday' geçmiş zamandır, şimdiki zaman olamaz.\n• E (be): Çekimlenmemiş fiildir.",
     "tip": "HOCANIN BÜYÜK TUZAĞI: 'your' kelimesine aldanma! Özne 'friends' (çoğul - onlar) olduğu için WAS değil WERE gelir!",
-    "id": 14
+    "id": 24
   },
   {
     "is_official_exam": true,
@@ -537,7 +897,7 @@
     "explanation": "'She' 3. tekil şahıstır. Geçmiş zaman olumsuz 'To Be' biçimi **wasn't** (was not) dır: 'She wasn't tired.'",
     "distractors": "• A: 'She' tekildir, 'weren't' çoğuldur.\n• B ve C: 'not was' veya 'no was' İngilizcede tamamen kural dışıdır.\n• E: 'yesterday' varken şimdiki zaman 'isn't' kullanılamaz.",
     "tip": "She $\rightarrow$ WASN'T tired.",
-    "id": 15
+    "id": 25
   },
   {
     "is_official_exam": true,
@@ -573,10 +933,10 @@
     "explanation": "'Alex' tekil şahıstır (he). 'yesterday' geçmiş zamandır. Ayrıca cümlenin devamındaki cevap 'Yes, he was' diyerek sorunun **Was** ile başladığını teyit eder: 'Was Alex at work yesterday?'",
     "distractors": "• A (Were): Alex tekildir, Were alamaz.\n• B ve D (Are / Is): 'yesterday' geçmiş zamandır.\n• E (Be): Soru yardımcı fiil olarak 'Be' ile başlamaz.",
     "tip": "Cevapta 'Yes, he WAS' varsa soru da kesinlikle WAS ile başlar: WAS Alex...?",
-    "id": 16
+    "id": 26
   },
   {
-    "id": 17,
+    "id": 27,
     "is_official_exam": true,
     "is_exam_certain": true,
     "category": "🏆 HOCANIN RESMİ SINAV BELGESİ",
@@ -612,7 +972,7 @@
     "tip": "They + last Sunday $\rightarrow$ WERE."
   },
   {
-    "id": 18,
+    "id": 28,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 1 • To Be",
@@ -647,7 +1007,7 @@
     "tip": "Hoca Tuzağı: 'My' kelimesini görüp 'am' işaretleme! Özne 'I' değil 'My name' (adım = tekil it) olduğu için IS gelir."
   },
   {
-    "id": 19,
+    "id": 29,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 2 • To Be Origin",
@@ -682,7 +1042,7 @@
     "tip": "I am | He/She/It is | You/We/They ARE."
   },
   {
-    "id": 20,
+    "id": 30,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 3 • Infinitive with To",
@@ -717,7 +1077,7 @@
     "tip": "'It is nice to...' sonrasında fiil DAİMA YALIN kalır: to MEET."
   },
   {
-    "id": 21,
+    "id": 31,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 4 • Greeting Response",
@@ -752,7 +1112,7 @@
     "tip": "How are you? $\rightarrow$ I'm fine, thanks."
   },
   {
-    "id": 22,
+    "id": 32,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 5 • How Often",
@@ -787,7 +1147,7 @@
     "tip": "How often...? $\rightarrow$ Three times a week / twice a week / once a day."
   },
   {
-    "id": 23,
+    "id": 33,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 6 • What do you do?",
@@ -822,7 +1182,7 @@
     "tip": "What do you do? = Mesleğin ne? $\rightarrow$ I'm an engineer."
   },
   {
-    "id": 24,
+    "id": 34,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 7 • Crowded Line",
@@ -857,7 +1217,7 @@
     "tip": "many people in line $\rightarrow$ CROWDED (kalabalık)."
   },
   {
-    "id": 25,
+    "id": 35,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 8 • Right now taking",
@@ -892,7 +1252,7 @@
     "tip": "right now + students (çoğul) $\rightarrow$ ARE TAKING."
   },
   {
-    "id": 26,
+    "id": 36,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 9 • Usually vs Today",
@@ -927,7 +1287,7 @@
     "tip": "usually $\rightarrow$ drinks | today $\rightarrow$ is drinking."
   },
   {
-    "id": 27,
+    "id": 37,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 10 • Possessive Adjective",
@@ -962,7 +1322,7 @@
     "tip": "Julia (kadın) $\rightarrow$ HER parents. Erkek olsaydı $\rightarrow$ HIS parents."
   },
   {
-    "id": 28,
+    "id": 38,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 11 • Articles (an actor)",
@@ -997,7 +1357,7 @@
     "tip": "Sesliyle başlayan meslek: AN actor, AN architect, AN engineer."
   },
   {
-    "id": 29,
+    "id": 39,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 12 • What time",
@@ -1032,7 +1392,7 @@
     "tip": "Saat sorusu: WHAT TIME is...?"
   },
   {
-    "id": 30,
+    "id": 40,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 13 • Airport was/were",
@@ -1067,7 +1427,7 @@
     "tip": "We WERE / It WAS."
   },
   {
-    "id": 31,
+    "id": 41,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 14 • Weather was / Friends were",
@@ -1102,7 +1462,7 @@
     "tip": "The weather $\rightarrow$ WAS | My friends and I $\rightarrow$ WERE (was / were)."
   },
   {
-    "id": 32,
+    "id": 42,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 15 • Which is NOT correct?",
@@ -1137,7 +1497,7 @@
     "tip": "Hocanın Uyarısı: 'isn't' ile yalın fiil 'work' YAN YANA GELEMEZ! 'isn't work' YANLIŞTIR."
   },
   {
-    "id": 33,
+    "id": 43,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 16 • Were you and Ben?",
@@ -1172,7 +1532,7 @@
     "tip": "HOCANIN KESİN SINAV SORUSU: you and Ben -> Yes, we WERE."
   },
   {
-    "id": 34,
+    "id": 44,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 17 • Habit Does / doesn't",
@@ -1207,7 +1567,7 @@
     "tip": "usually + walk $\rightarrow$ DOES she walk...? / No, she DOESN'T."
   },
   {
-    "id": 35,
+    "id": 45,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 18 • There are / Noisy",
@@ -1242,7 +1602,7 @@
     "tip": "a lot of cars (çoğul) $\rightarrow$ ARE | arabalar çoksa $\rightarrow$ NOISY (gürültülü)."
   },
   {
-    "id": 36,
+    "id": 46,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 19 • Share / have",
@@ -1277,7 +1637,7 @@
     "tip": "İki özne de çoğul: SHARE / HAVE."
   },
   {
-    "id": 37,
+    "id": 47,
     "is_official_exam": true,
     "category": "🏆 HOCANIN 20 SORULUK RESMİ SINAVI",
     "tag": "Resmi Sınav • Soru 20 • Were you / wasn't ill",
@@ -1344,7 +1704,7 @@
     "explanation": "'traffic' tekil/sayılamaz -> was. 'my colleagues and I' (we) -> were: **was / were**.",
     "distractors": "• B, C, D ve E seçenekleri tekil/çoğul kuralına aykırıdır.",
     "tip": "The traffic $\rightarrow$ WAS | We $\rightarrow$ WERE.",
-    "id": 38,
+    "id": 48,
     "is_official_exam": false
   },
   {
@@ -1380,7 +1740,7 @@
     "explanation": "'doesn't' sonrasında gelen fiil kesinlikle yalın olmalıdır ('doesn't like'). 'doesn't likes' dilbilgisi hatasıdır.",
     "distractors": "• B, C, D ve E cümleleri tamamen doğrudur.",
     "tip": "Hocanın favori tuzağı: 'doesn't' varsa fiilde -s takısı OLMAZ!",
-    "id": 39,
+    "id": 49,
     "is_official_exam": false
   },
   {
@@ -1416,7 +1776,7 @@
     "explanation": "1) 'Listen!' (Dinle!) uyarısı konuşma anını belirtir -> Present Continuous (The neighbours are playing).\n2) 'can' yardımcı fiilinin olumsuzu İngilizcede can't ile yapılır. İngilizcede ASLA 'don't can' veya 'not can' denmez!",
     "distractors": "• A: 'Listen!' varken geniş zaman (play) kullanılamaz.\n• C: 'don't can' kesinlikle dilbilgisi kural dışıdır.\n• D: 'not can' kesinlikle kural dışıdır (dersteki çeldirici tuzak!).\n• E: 'am not can' uydurma bir yapıdır.",
     "tip": "Hocanın Uyarısı: 'Listen!' -> ARE PLAYING; 'can' olumsuzu ise KESİNLİKLE 'can't' olur! 'don't can' veya 'not can' ASLA OLMAZ!",
-    "id": 40,
+    "id": 50,
     "is_official_exam": false
   },
   {
@@ -1452,7 +1812,7 @@
     "explanation": "Özne 'you and your sister' (sen ve kız kardeşin) yanıt verirken 'we' (biz) olur. Geçmiş zamanda 'we' ile olumlu cevapta Yes, we were. denir.",
     "distractors": "• A (was): 'we' ile was kullanılamaz.\n• C: Soru to be ile sorulmuştur, did denemez.\n• D: 'yesterday' varken şimdiki zaman 'are' gelemez.\n• E: 'Yes' cevabında olumsuzluk olamaz.",
     "tip": "Soru 'Were you and [Kişi]...?' ise cevap KESİNLİKLE 'Yes, we were' veya 'No, we weren't' olur!",
-    "id": 41,
+    "id": 51,
     "is_official_exam": false
   },
   {
@@ -1488,7 +1848,7 @@
     "explanation": "'Listen!' şimdiki zamanı gerektirir (is knocking). 'can' yardımcı fiilinin olumsuzu ise daima can't dır.",
     "distractors": "• A: 'Listen!' varken knocks denemez.\n• C, D ve E: 'don't can' veya 'not can' kesinlikle İngilizcede yoktur.",
     "tip": "İkili Kalıp: is knocking / can't.",
-    "id": 42,
+    "id": 52,
     "is_official_exam": false
   },
   {
@@ -1524,11 +1884,11 @@
     "explanation": "Öğrenciler çoğuldur (They) -> were. Müze tekildir (It) -> was. Cevap: were / was.",
     "distractors": "• B: Çoğul özneye 'was' konmuştur.\n• C: 'It' tekildir, were alamaz.\n• D: 'yesterday' geçmiş zamandır.\n• E: Öğrencilere 'was' denemez.",
     "tip": "The students -> WERE | It -> WAS.",
-    "id": 43,
+    "id": 53,
     "is_official_exam": false
   },
   {
-    "id": 44,
+    "id": 54,
     "category": "Hocanın Canlı Ders Soruları",
     "tag": "Present Simple • Contrast",
     "question": "Anna ___ coffee, but she ___ tea every morning.",
@@ -1563,7 +1923,7 @@
     "is_official_exam": false
   },
   {
-    "id": 45,
+    "id": 55,
     "category": "Hocanın Canlı Ders Soruları",
     "tag": "Articles • a / an / the",
     "question": "She is ___ honest person and ___ best student in our class.",
@@ -1598,7 +1958,7 @@
     "is_official_exam": false
   },
   {
-    "id": 46,
+    "id": 56,
     "category": "Hocanın Canlı Ders Soruları",
     "tag": "Which question is correct?",
     "question": "Which question is correct?",
@@ -1633,7 +1993,7 @@
     "is_official_exam": false
   },
   {
-    "id": 47,
+    "id": 57,
     "category": "Hocanın Canlı Ders Soruları",
     "tag": "Vocabulary in Context",
     "question": "The film was so ___ that I almost fell asleep.",
@@ -1668,7 +2028,7 @@
     "is_official_exam": false
   },
   {
-    "id": 48,
+    "id": 58,
     "category": "Hocanın Canlı Ders Soruları",
     "tag": "Best Answer • Dialogue",
     "question": "\"What are you doing?\" Best answer:",
@@ -1703,7 +2063,7 @@
     "is_official_exam": false
   },
   {
-    "id": 49,
+    "id": 59,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple • Contrast",
     "question": "He ___ meat because he is a vegetarian, but he ___ fish on weekends.",
@@ -1738,7 +2098,7 @@
     "is_official_exam": false
   },
   {
-    "id": 50,
+    "id": 60,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple vs Continuous",
     "question": "My father usually ___ TV in the evening, but tonight he ___ a book.",
@@ -1773,7 +2133,7 @@
     "is_official_exam": false
   },
   {
-    "id": 51,
+    "id": 61,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple • Plural Subject",
     "question": "They ___ in an office from Monday to Thursday, but they ___ from home on Fridays.",
@@ -1808,7 +2168,7 @@
     "is_official_exam": false
   },
   {
-    "id": 52,
+    "id": 62,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple vs Continuous",
     "question": "She ___ French fluently, and right now she ___ Italian at an evening course.",
@@ -1843,7 +2203,7 @@
     "is_official_exam": false
   },
   {
-    "id": 53,
+    "id": 63,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple • Stative Verb (Like)",
     "question": "I ___ coffee, but my sister ___ tea with milk every afternoon.",
@@ -1878,7 +2238,7 @@
     "is_official_exam": false
   },
   {
-    "id": 54,
+    "id": 64,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple vs Continuous",
     "question": "Jack ___ soccer on Saturdays, but this week he ___ because he has a bad cold.",
@@ -1913,7 +2273,7 @@
     "is_official_exam": false
   },
   {
-    "id": 55,
+    "id": 65,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Simple vs Continuous",
     "question": "We usually ___ to school by bus, but today we ___ by subway because the traffic is terrible.",
@@ -1948,7 +2308,7 @@
     "is_official_exam": false
   },
   {
-    "id": 56,
+    "id": 66,
     "category": "Which question is correct?",
     "tag": "Past of Be • Question",
     "question": "Which question is correct?",
@@ -1983,7 +2343,7 @@
     "is_official_exam": false
   },
   {
-    "id": 57,
+    "id": 67,
     "category": "Which question is correct?",
     "tag": "How often • Question",
     "question": "Which question is correct?",
@@ -2018,7 +2378,7 @@
     "is_official_exam": false
   },
   {
-    "id": 58,
+    "id": 68,
     "category": "Which question is correct?",
     "tag": "Past of Be • Plural",
     "question": "Which question is correct?",
@@ -2053,7 +2413,7 @@
     "is_official_exam": false
   },
   {
-    "id": 59,
+    "id": 69,
     "category": "Which question is correct?",
     "tag": "Present Simple • What time",
     "question": "Which question is correct?",
@@ -2088,7 +2448,7 @@
     "is_official_exam": false
   },
   {
-    "id": 60,
+    "id": 70,
     "category": "Which question is correct?",
     "tag": "Present Continuous • Question",
     "question": "Which question is correct?",
@@ -2123,7 +2483,7 @@
     "is_official_exam": false
   },
   {
-    "id": 61,
+    "id": 71,
     "category": "Which question is correct?",
     "tag": "Simple Present • Have",
     "question": "Which question is correct?",
@@ -2158,7 +2518,7 @@
     "is_official_exam": false
   },
   {
-    "id": 62,
+    "id": 72,
     "category": "Which sentence is correct?",
     "tag": "Adverb Position with To Be",
     "question": "Which sentence is grammatically correct?",
@@ -2193,7 +2553,7 @@
     "is_official_exam": false
   },
   {
-    "id": 63,
+    "id": 73,
     "category": "Which sentence is correct?",
     "tag": "Adverb Position with Main Verb",
     "question": "Which sentence is grammatically correct?",
@@ -2228,7 +2588,7 @@
     "is_official_exam": false
   },
   {
-    "id": 64,
+    "id": 74,
     "category": "Which sentence is correct?",
     "tag": "Present Simple • Negative",
     "question": "Which sentence is grammatically correct?",
@@ -2263,7 +2623,7 @@
     "is_official_exam": false
   },
   {
-    "id": 65,
+    "id": 75,
     "category": "Which sentence is correct?",
     "tag": "Past of Be • Negative",
     "question": "Which sentence is grammatically correct?",
@@ -2298,7 +2658,7 @@
     "is_official_exam": false
   },
   {
-    "id": 66,
+    "id": 76,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Adjectives • Exciting",
     "question": "The rock concert was so ___ that everybody was dancing and screaming with joy.",
@@ -2333,7 +2693,7 @@
     "is_official_exam": false
   },
   {
-    "id": 67,
+    "id": 77,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Crowded",
     "question": "The subway train was so ___ that passengers couldn't even move their arms.",
@@ -2368,7 +2728,7 @@
     "is_official_exam": false
   },
   {
-    "id": 68,
+    "id": 78,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Flat tire",
     "question": "I couldn't ride my bicycle this morning because the rear tire was completely ___.",
@@ -2403,7 +2763,7 @@
     "is_official_exam": false
   },
   {
-    "id": 69,
+    "id": 79,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Terrible traffic",
     "question": "The city bus was forty minutes late because the morning traffic was ___.",
@@ -2438,7 +2798,7 @@
     "is_official_exam": false
   },
   {
-    "id": 70,
+    "id": 80,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Long lines",
     "question": "We had to wait outside the cinema for half an hour because the ticket line was very ___.",
@@ -2473,7 +2833,7 @@
     "is_official_exam": false
   },
   {
-    "id": 71,
+    "id": 81,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Broken",
     "question": "Daniel couldn't send an email from his laptop because it was ___.",
@@ -2508,7 +2868,7 @@
     "is_official_exam": false
   },
   {
-    "id": 72,
+    "id": 82,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Closed",
     "question": "I wanted to buy some medicine at 11:30 p.m., but the pharmacy was ___.",
@@ -2543,7 +2903,7 @@
     "is_official_exam": false
   },
   {
-    "id": 73,
+    "id": 83,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Sick",
     "question": "Sarah wasn't in English class yesterday because she was ___ in bed with a fever.",
@@ -2578,7 +2938,7 @@
     "is_official_exam": false
   },
   {
-    "id": 74,
+    "id": 84,
     "category": "Articles (a / an / the)",
     "tag": "University & Hour",
     "question": "He is ___ university student, and he studies for ___ hour every night.",
@@ -2613,7 +2973,7 @@
     "is_official_exam": false
   },
   {
-    "id": 75,
+    "id": 85,
     "category": "Articles (a / an / the)",
     "tag": "European & Superlative",
     "question": "We went on ___ European tour and it was ___ most exciting holiday of my life.",
@@ -2648,7 +3008,7 @@
     "is_official_exam": false
   },
   {
-    "id": 76,
+    "id": 86,
     "category": "Articles (a / an / the)",
     "tag": "Architect & Old office",
     "question": "My uncle is ___ architect and he works in ___ old building downtown.",
@@ -2683,7 +3043,7 @@
     "is_official_exam": false
   },
   {
-    "id": 77,
+    "id": 87,
     "category": "Articles (a / an / the)",
     "tag": "Geographical Superlative",
     "question": "Mount Everest is ___ highest mountain in ___ world.",
@@ -2718,7 +3078,7 @@
     "is_official_exam": false
   },
   {
-    "id": 78,
+    "id": 88,
     "category": "Best Answer • Dialogue",
     "tag": "What do you do?",
     "question": "\"What do you do?\" Best answer:",
@@ -2753,7 +3113,7 @@
     "is_official_exam": false
   },
   {
-    "id": 79,
+    "id": 89,
     "category": "Best Answer • Dialogue",
     "tag": "How are you?",
     "question": "\"How's it going?\" Best answer:",
@@ -2788,7 +3148,7 @@
     "is_official_exam": false
   },
   {
-    "id": 80,
+    "id": 90,
     "category": "Best Answer • Dialogue",
     "tag": "Nice to meet you",
     "question": "Alex: \"Maria, this is my friend Daniel.\"\nDaniel: \"Nice to meet you, Maria.\"\nMaria: \"___________\"",
@@ -2823,7 +3183,7 @@
     "is_official_exam": false
   },
   {
-    "id": 81,
+    "id": 91,
     "category": "Best Answer • Dialogue",
     "tag": "Where were you?",
     "question": "A: \"Where were you yesterday afternoon?\"\nB: \"___________\"",
@@ -2858,7 +3218,7 @@
     "is_official_exam": false
   },
   {
-    "id": 82,
+    "id": 92,
     "category": "Best Answer • Dialogue",
     "tag": "Do you ever exercise?",
     "question": "A: \"Do you ever exercise after class?\"\nB: \"___________\"",
@@ -2893,7 +3253,7 @@
     "is_official_exam": false
   },
   {
-    "id": 83,
+    "id": 93,
     "category": "Best Answer • Dialogue",
     "tag": "Short Answer • Are you a student?",
     "question": "A: \"Are you a university student?\"\nB: \"Yes, ___________.\"",
@@ -2928,7 +3288,7 @@
     "is_official_exam": false
   },
   {
-    "id": 84,
+    "id": 94,
     "category": "Which question is correct?",
     "tag": "Where from • To Be",
     "question": "Which question is correct?",
@@ -2963,7 +3323,7 @@
     "is_official_exam": false
   },
   {
-    "id": 85,
+    "id": 95,
     "category": "Which sentence is correct?",
     "tag": "Third Person -es Rule",
     "question": "Which sentence is grammatically correct?",
@@ -2998,7 +3358,7 @@
     "is_official_exam": false
   },
   {
-    "id": 86,
+    "id": 96,
     "category": "İki Boşluklu Cümleler",
     "tag": "Study -ies Rule",
     "question": "She ___ medicine at university, but her brother ___ economics.",
@@ -3033,7 +3393,7 @@
     "is_official_exam": false
   },
   {
-    "id": 87,
+    "id": 97,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Late",
     "question": "It is already 9:15 a.m. and the class starts at 9:00. The teacher is very angry because we are ___.",
@@ -3068,7 +3428,7 @@
     "is_official_exam": false
   },
   {
-    "id": 88,
+    "id": 98,
     "category": "Which question is correct?",
     "tag": "Past of Be • Was he",
     "question": "Which question is correct?",
@@ -3103,7 +3463,7 @@
     "is_official_exam": false
   },
   {
-    "id": 89,
+    "id": 99,
     "category": "Which sentence is correct?",
     "tag": "Frequency Expressions at End",
     "question": "Which sentence is grammatically correct?",
@@ -3138,7 +3498,7 @@
     "is_official_exam": false
   },
   {
-    "id": 90,
+    "id": 100,
     "category": "İki Boşluklu Cümleler",
     "tag": "Present Continuous • Be quiet!",
     "question": "Be quiet! The baby ___ in the bedroom and my mother ___ dinner in the kitchen.",
@@ -3173,7 +3533,7 @@
     "is_official_exam": false
   },
   {
-    "id": 91,
+    "id": 101,
     "category": "Articles (a / an / the)",
     "tag": "MBA Degree",
     "question": "She has ___ MBA degree and she works for ___ international bank.",
@@ -3208,7 +3568,7 @@
     "is_official_exam": false
   },
   {
-    "id": 92,
+    "id": 102,
     "category": "Best Answer • Dialogue",
     "tag": "Were you late?",
     "question": "A: \"Were you late for the exam this morning?\"\nB: \"___________\"",
@@ -3243,7 +3603,7 @@
     "is_official_exam": false
   },
   {
-    "id": 93,
+    "id": 103,
     "category": "Which question is correct?",
     "tag": "Present Continuous • Listening",
     "question": "Which question is correct?",
@@ -3278,7 +3638,7 @@
     "is_official_exam": false
   },
   {
-    "id": 94,
+    "id": 104,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Funny",
     "question": "The comedy show was so ___ that everyone couldn't stop laughing.",
@@ -3313,7 +3673,7 @@
     "is_official_exam": false
   },
   {
-    "id": 95,
+    "id": 105,
     "category": "Articles (a / an / the)",
     "tag": "Useful piece of advice",
     "question": "My teacher gave me ___ useful piece of advice before the exam.",
@@ -3348,7 +3708,7 @@
     "is_official_exam": false
   },
   {
-    "id": 96,
+    "id": 106,
     "category": "Which sentence is correct?",
     "tag": "Present Continuous Negative",
     "question": "Which sentence is grammatically correct?",
@@ -3383,7 +3743,7 @@
     "is_official_exam": false
   },
   {
-    "id": 97,
+    "id": 107,
     "category": "Best Answer • Dialogue",
     "tag": "Where does she live?",
     "question": "A: \"Where does your aunt live?\"\nB: \"___________\"",
@@ -3418,7 +3778,7 @@
     "is_official_exam": false
   },
   {
-    "id": 98,
+    "id": 108,
     "category": "Which question is correct?",
     "tag": "Where were they",
     "question": "Which question is correct?",
@@ -3453,7 +3813,7 @@
     "is_official_exam": false
   },
   {
-    "id": 99,
+    "id": 109,
     "category": "İki Boşluklu Cümleler",
     "tag": "Negative Habit",
     "question": "Mark ___ a car, so he ___ to work by bus every morning.",
@@ -3488,7 +3848,7 @@
     "is_official_exam": false
   },
   {
-    "id": 100,
+    "id": 110,
     "category": "Sıfat & Kelime Soruları",
     "tag": "Unit 6 • Exhausted / Tired",
     "question": "I got home at 11 p.m. after working for twelve hours, so I was extremely ___.",
@@ -3523,7 +3883,7 @@
     "is_official_exam": false
   },
   {
-    "id": 101,
+    "id": 111,
     "category": "Articles (a / an / the)",
     "tag": "Artist & High school",
     "question": "My cousin is ___ artist and she teaches painting at ___ high school.",
@@ -3558,7 +3918,7 @@
     "is_official_exam": false
   },
   {
-    "id": 102,
+    "id": 112,
     "category": "Which sentence is correct?",
     "tag": "Time Expression Identification",
     "question": "Which sentence is grammatically INCORRECT?",
@@ -3593,7 +3953,7 @@
     "is_official_exam": false
   },
   {
-    "id": 103,
+    "id": 113,
     "category": "Best Answer • Dialogue",
     "tag": "How often exercise",
     "question": "A: \"How often do you exercise?\"\nB: \"___________\"",

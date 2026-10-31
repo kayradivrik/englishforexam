@@ -712,7 +712,7 @@ html_template = """<!DOCTYPE html>
         <div class="header-inner">
             <div class="app-title">
                 <span>Smart Choice 1</span>
-                <span class="tag">Resmi Sınav & Gramer Öğretici (103 Soru)</span>
+                <span class="tag">Resmi Sınav & Gramer Öğretici (113 Soru)</span>
             </div>
             <div class="header-actions">
                 <button class="icon-btn" onclick="openJumpModal()" title="Sorular">🔢</button>
@@ -732,7 +732,8 @@ html_template = """<!DOCTYPE html>
 
         <!-- Category Filters (Hidden in Grammar Mode) -->
         <div class="category-filter-wrap" id="categoryFilterWrap">
-            <button class="cat-chip active" onclick="setCategory('all')">Tümü (103)</button>
+            <button class="cat-chip active" onclick="setCategory('all')">Tümü (113)</button>
+            <button class="cat-chip" onclick="setCategory('📘 OXFORD KİTAP SORULARI (PAGE 39)')">Oxford Kitap (10)</button>
             <button class="cat-chip" onclick="setCategory('🏆 HOCANIN SLAYT CHALLENGE SORULARI')">Slayt Challenge (12)</button>
             <button class="cat-chip" onclick="setCategory('🏆 HOCANIN RESMİ SINAV BELGESİ')">Word Sınavı (20)</button>
             <button class="cat-chip" onclick="setCategory('🏆 HOCANIN 20 SORULUK RESMİ SINAVI')">Canlı Quiz (20)</button>
@@ -745,7 +746,7 @@ html_template = """<!DOCTYPE html>
         <div id="singleViewContainer">
             <!-- Status Bar & Score -->
             <div class="quiz-status-bar">
-                <span id="qCounter">QUESTION 1 / 103</span>
+                <span id="qCounter">QUESTION 1 / 113</span>
                 <span id="scoreCounter">SCORE: 0</span>
             </div>
             <div class="progress-track">
@@ -756,7 +757,7 @@ html_template = """<!DOCTYPE html>
             <div class="quiz-card" id="quizCard">
                 <div class="q-meta">
                     <span class="q-cat-tag" id="qTag">Challenge Quiz</span>
-                    <span class="q-num-text" id="qIndexText">Soru 1 / 103</span>
+                    <span class="q-num-text" id="qIndexText">Soru 1 / 113</span>
                 </div>
                 <div class="question-title" id="questionText">Loading question...</div>
                 <div class="options-group" id="optionsGroup"></div>
@@ -805,7 +806,7 @@ html_template = """<!DOCTYPE html>
         <div id="grammarViewContainer">
             <div class="grammar-hero">
                 <h2>📖 Sınav Kazandıran Gramer Rehberi</h2>
-                <p>Aşağıdaki 9 kritik gramer kartını dikkatlice oku. Bu kuralları anladığında sınavdaki 103 sorunun tamamını hiç zorlanmadan doğru çözeceksin!</p>
+                <p>Aşağıdaki 9 kritik gramer kartını dikkatlice oku. Bu kuralları anladığında sınavdaki 113 sorunun tamamını hiç zorlanmadan doğru çözeceksin!</p>
             </div>
 
             <!-- Kart 1: To Be & Kısa Cevap Tuzağı -->
@@ -1071,7 +1072,7 @@ html_template = """<!DOCTYPE html>
     <div class="modal" id="jumpModal" onclick="closeJumpModal(event)">
         <div class="modal-body" onclick="event.stopPropagation()">
             <div style="display:flex; justify-content:space-between; align-items:center;">
-                <h3 style="font-size:1rem;">Sorular Listesi (1 - 103)</h3>
+                <h3 style="font-size:1rem;">Sorular Listesi (1 - 113)</h3>
                 <button class="icon-btn" onclick="closeJumpModal()">✕</button>
             </div>
             <p style="font-size:0.8rem; color:var(--text-muted); margin-top:4px;">Yeşil: Doğru, Kırmızı: Yanlış</p>

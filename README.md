@@ -25,3 +25,4 @@ Bu repoda **GitHub Pages** aktif edildiğinde uygulama doğrudan şu adreste can
 * **Sade ve Modern Tasarım:** Gözü yormayan minimalist arayüz, koyu/açık (Dark/Light) tema desteği.
 * **İnternetsiz (Offline) Çalışabilme:** Tek bir HTML dosyasından oluştuğu için dosyayı indirip internetsiz de kullanabilirsiniz.
 * **İlerleme Kaydı (Local Storage):** Hangi soruları çözdüğünüz, skorunuz ve yanlışlarınız tarayıcınızda otomatik kaydedilir.
+
